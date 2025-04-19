@@ -1,6 +1,6 @@
 ## Author
 This project was built by Nikesh Kumar.
-link: nick031.netlify.app
+contact: nikeshkumar310305@gmail.com
 
 # Colorization Project
 
@@ -10,17 +10,6 @@ This project implements image colorization using deep learning models. It uses p
 - Supports GPU acceleration for faster processing.
 - Outputs colorized images using two different models: `ECCV16` and `SIGGRAPH17`.
 - Saves the results as `.png` files.
-
-## Project Structure
-coloranto/
-├── colorizers/
-│   ├── [__init__.py]
-│   ├── [base_color.py]
-│   ├── [eccv16.py]
-│   ├── [siggraph17.py]
-│   └── [util.py]
-├── [demo_release.py]
-├── [requirements.txt]
 
 ## Dependencies
 The project requires the following libraries:
